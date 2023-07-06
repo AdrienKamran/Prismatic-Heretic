@@ -1,0 +1,672 @@
+fileFormatVersion: 2
+guid: ae5081a1243144342ab66456a7d3cda5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6190600326046139628
+    second: SpriteSheetForRedEnemies_0
+  - first:
+      213: -1604410427702907629
+    second: SpriteSheetForRedEnemies_1
+  - first:
+      213: -4218492699060625942
+    second: SpriteSheetForRedEnemies_2
+  - first:
+      213: -5932720850360292357
+    second: SpriteSheetForRedEnemies_3
+  - first:
+      213: -7689134129149234095
+    second: SpriteSheetForRedEnemies_4
+  - first:
+      213: -4859918963082571203
+    second: SpriteSheetForRedEnemies_5
+  - first:
+      213: -6752627270130815269
+    second: SpriteSheetForRedEnemies_6
+  - first:
+      213: -6505350705570068807
+    second: SpriteSheetForRedEnemies_7
+  - first:
+      213: 6874938174674908303
+    second: SpriteSheetForRedEnemies_8
+  - first:
+      213: -7736865502522941963
+    second: SpriteSheetForRedEnemies_9
+  - first:
+      213: -8342453755793841843
+    second: SpriteSheetForRedEnemies_10
+  - first:
+      213: -1584703556085769488
+    second: SpriteSheetForRedEnemies_11
+  - first:
+      213: 7273826536052905103
+    second: SpriteSheetForRedEnemies_12
+  - first:
+      213: -3167708217802683012
+    second: SpriteSheetForRedEnemies_13
+  - first:
+      213: -1982727778801235188
+    second: SpriteSheetForRedEnemies_14
+  - first:
+      213: 1101046603741622598
+    second: SpriteSheetForRedEnemies_15
+  - first:
+      213: -3585021211707530658
+    second: SpriteSheetForRedEnemies_16
+  - first:
+      213: -2714253280052500388
+    second: SpriteSheetForRedEnemies_17
+  - first:
+      213: 6431147137982927849
+    second: SpriteSheetForRedEnemies_18
+  - first:
+      213: 7167615926180362784
+    second: SpriteSheetForRedEnemies_19
+  - first:
+      213: 3148819840307298541
+    second: SpriteSheetForRedEnemies_20
+  - first:
+      213: 835540623981197317
+    second: SpriteSheetForRedEnemies_21
+  - first:
+      213: 4867640807274442037
+    second: SpriteSheetForRedEnemies_22
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpriteSheetForRedEnemies_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1646
+        width: 139
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41b3a9b7dc1961aa0800000000000000
+      internalID: -6190600326046139628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetForRedEnemies_1
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 1646
+        width: 176
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31de5de673dfbb9e0800000000000000
+      internalID: -1604410427702907629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetForRedEnemies_2
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1647
+        width: 169
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aed99e0ad37e475c0800000000000000
+      internalID: -4218492699060625942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetForRedEnemies_3
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 1646
+        width: 180
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfba8bac1ddbaada0800000000000000
+      internalID: -5932720850360292357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetForRedEnemies_4
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 1646
+        width: 180
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1543ab19f35ba4590800000000000000
+      internalID: -7689134129149234095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetForRedEnemies_5
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1657
+        width: 194
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d325748b3791e8cb0800000000000000
+      internalID: -4859918963082571203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetForRedEnemies_6
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1643
+        width: 229
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdeac375649d942a0800000000000000
+      internalID: -6752627270130815269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetForRedEnemies_7
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1277
+        width: 119
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b6c827000a58b5a0800000000000000
+      internalID: -6505350705570068807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetForRedEnemies_8
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 1278
+        width: 120
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f84354a48dfa86f50800000000000000
+      internalID: 6874938174674908303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetForRedEnemies_9
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 1273
+        width: 119
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd552f21d121a490800000000000000
+      internalID: -7736865502522941963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetForRedEnemies_10
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 1269
+        width: 130
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d41e8c26286a93c80800000000000000
+      internalID: -8342453755793841843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetForRedEnemies_11
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 889
+        width: 121
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fa95390380020ae0800000000000000
+      internalID: -1584703556085769488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetForRedEnemies_12
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 891
+        width: 176
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f845e3732b2d1f460800000000000000
+      internalID: 7273826536052905103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetForRedEnemies_13
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 891
+        width: 169
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7d09cdb82a0a04d0800000000000000
+      internalID: -3167708217802683012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetForRedEnemies_14
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 891
+        width: 180
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0bc042179feb74e0800000000000000
+      internalID: -1982727778801235188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetForRedEnemies_15
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 888
+        width: 184
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6417b217d04b74f00800000000000000
+      internalID: 1101046603741622598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetForRedEnemies_16
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 904
+        width: 168
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e52aee3c3327f3ec0800000000000000
+      internalID: -3585021211707530658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetForRedEnemies_17
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 900
+        width: 229
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c582804c509055ad0800000000000000
+      internalID: -2714253280052500388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetForRedEnemies_18
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 501
+        width: 119
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e31eb19f36004950800000000000000
+      internalID: 6431147137982927849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetForRedEnemies_19
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 501
+        width: 117
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ab96e85bc787360800000000000000
+      internalID: 7167615926180362784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetForRedEnemies_20
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 501
+        width: 119
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de0083b26fad2bb20800000000000000
+      internalID: 3148819840307298541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetForRedEnemies_21
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 490
+        width: 134
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 508bec745cf689b00800000000000000
+      internalID: 835540623981197317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetForRedEnemies_22
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 111
+        width: 139
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53de9cb36855d8340800000000000000
+      internalID: 4867640807274442037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

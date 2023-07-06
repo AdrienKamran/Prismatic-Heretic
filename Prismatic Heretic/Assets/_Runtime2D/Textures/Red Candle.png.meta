@@ -1,0 +1,390 @@
+fileFormatVersion: 2
+guid: ee4043414d672974cb08ff16b0ca62a2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7459208599253462458
+    second: Red Candle_0
+  - first:
+      213: -4368812061503383248
+    second: Red Candle_1
+  - first:
+      213: 9151563352793239514
+    second: Red Candle_2
+  - first:
+      213: 7639180134088758019
+    second: Red Candle_3
+  - first:
+      213: 3218334909659509468
+    second: Red Candle_4
+  - first:
+      213: 8468795617090271585
+    second: Red Candle_5
+  - first:
+      213: -6279287998977453138
+    second: Red Candle_6
+  - first:
+      213: 5188395564940600841
+    second: Red Candle_7
+  - first:
+      213: -1496786152064024348
+    second: Red Candle_8
+  - first:
+      213: -1789628192706654958
+    second: Red Candle_9
+  - first:
+      213: -3107717224463660315
+    second: Red Candle_10
+  - first:
+      213: 4858338965530737535
+    second: Red Candle_11
+  - first:
+      213: 8887587220832279550
+    second: Red Candle_12
+  - first:
+      213: -5822776612271291916
+    second: Red Candle_13
+  - first:
+      213: 1159753495403420974
+    second: Red Candle_14
+  - first:
+      213: 6472733269260599940
+    second: Red Candle_15
+  - first:
+      213: 8313694191517393885
+    second: Red Candle_16
+  - first:
+      213: -3321556049689051836
+    second: Red Candle_17
+  - first:
+      213: 112592215798277721
+    second: Red Candle_18
+  - first:
+      213: -4628923920595573107
+    second: Red Candle_19
+  - first:
+      213: -993478226338929828
+    second: Red Candle_20
+  - first:
+      213: 791382106058584123
+    second: Red Candle_21
+  - first:
+      213: -7859137017465264418
+    second: Red Candle_22
+  - first:
+      213: -3241074418643566893
+    second: Red Candle_23
+  - first:
+      213: -5170697196213040419
+    second: Red Candle_24
+  - first:
+      213: 9088993068109560580
+    second: Red Candle_25
+  - first:
+      213: -4877856102163095991
+    second: Red Candle_26
+  - first:
+      213: -4725134664862978943
+    second: Red Candle_27
+  - first:
+      213: 5787395956253409328
+    second: Red Candle_28
+  - first:
+      213: -2816668093027979342
+    second: Red Candle_29
+  - first:
+      213: -8288346863934980778
+    second: Red Candle_30
+  - first:
+      213: -2523501302920584088
+    second: Red Candle_31
+  - first:
+      213: -9117065685754682916
+    second: Red Candle_32
+  - first:
+      213: -8908615337326097155
+    second: Red Candle_33
+  - first:
+      213: -4322881123068702258
+    second: Red Candle_34
+  - first:
+      213: 1126530343701972550
+    second: Red Candle_35
+  - first:
+      213: -4497757438816417797
+    second: Red Candle_36
+  - first:
+      213: 314230181949044895
+    second: Red Candle_37
+  - first:
+      213: 1426963580323738781
+    second: Red Candle_38
+  - first:
+      213: 6151513487490779729
+    second: Red Candle_39
+  - first:
+      213: -7725146512234632136
+    second: Red Candle_40
+  - first:
+      213: 403258399571585058
+    second: Red Candle_41
+  - first:
+      213: -7603341682490048975
+    second: Red Candle_42
+  - first:
+      213: 4607344766229005140
+    second: Red Candle_43
+  - first:
+      213: -5741460702122137580
+    second: Red Candle_44
+  - first:
+      213: -1442973429172154164
+    second: Red Candle_45
+  - first:
+      213: -8337853996584864948
+    second: Red Candle_46
+  - first:
+      213: 1002260528456235402
+    second: Red Candle_47
+  - first:
+      213: 7134956405563978237
+    second: Red Candle_48
+  - first:
+      213: -138069538240991433
+    second: Red Candle_49
+  - first:
+      213: 7348384780227125639
+    second: Red Candle_50
+  - first:
+      213: 5506535988888034390
+    second: Red Candle_51
+  - first:
+      213: -3061971082761298832
+    second: Red Candle_52
+  - first:
+      213: -1879654212766036429
+    second: Red Candle_53
+  - first:
+      213: 6721084159918290074
+    second: Red Candle_54
+  - first:
+      213: 5790815168586468339
+    second: Red Candle_55
+  - first:
+      213: -8673596267345488122
+    second: Red Candle_56
+  - first:
+      213: 2440333327107700231
+    second: Red Candle_57
+  - first:
+      213: 8082209470196567310
+    second: Red Candle_58
+  - first:
+      213: -177087514557194195
+    second: Red Candle_59
+  - first:
+      213: -9174713559269469688
+    second: Red Candle_60
+  - first:
+      213: 4687545591788115341
+    second: Red Candle_61
+  - first:
+      213: -7757597461413272200
+    second: Red Candle_62
+  - first:
+      213: 2596439126191847003
+    second: Red Candle_63
+  - first:
+      213: 2972209135655793512
+    second: Red Candle_64
+  - first:
+      213: 6565405588970230881
+    second: Red Candle_65
+  - first:
+      213: 5755040648992853331
+    second: Red Candle_66
+  - first:
+      213: 2303508299097111847
+    second: Red Candle_67
+  - first:
+      213: -4527627439796042852
+    second: Red Candle_68
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 120
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Red Candle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1248
+        width: 208
+        height: 520
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64255ffac419b7890800000000000000
+      internalID: -7459208599253462458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Candle_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 624
+        width: 208
+        height: 520
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03916a7b39cde53c0800000000000000
+      internalID: -4368812061503383248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Candle_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 208
+        height: 520
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adf49bed162e00f70800000000000000
+      internalID: 9151563352793239514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

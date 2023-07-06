@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ddc439ae8a97444538dd7a54388b9c7d, type: 3}
+  m_Name: '[...] & yellow'
+  m_EditorClassIdentifier: 
+  speakerLeft: {fileID: 11400000, guid: 1f43ee51b907143889decdd4c978f905, type: 2}
+  speakerRight: {fileID: 11400000, guid: 88a0e744fdc8b48ef8a14204f754f336, type: 2}
+  lines:
+  - character: {fileID: 11400000, guid: 88a0e744fdc8b48ef8a14204f754f336, type: 2}
+    text: "\u201CYour robe, I\u2019ve never seen one like it\u2026 What brings you
+      here, wanderer?\u201D"
+  - character: {fileID: 11400000, guid: 1f43ee51b907143889decdd4c978f905, type: 2}
+    text: "\u201CDisciples of the Sunlight Council, I have no quarrel with you. It\u2019s
+      your Headmaster that needs to learn a lesson.\u201D"
+  - character: {fileID: 11400000, guid: 88a0e744fdc8b48ef8a14204f754f336, type: 2}
+    text: "\u201CEven so, stranger, we cannot let you pass. You know what you did
+      by entering these grounds unwelcomed.\u201D"
+  - character: {fileID: 11400000, guid: 1f43ee51b907143889decdd4c978f905, type: 2}
+    text: "\u201CIt didn\u2019t have to be like this\u2026\u201D"

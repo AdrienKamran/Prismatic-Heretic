@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ddc439ae8a97444538dd7a54388b9c7d, type: 3}
+  m_Name: '[...] & red'
+  m_EditorClassIdentifier: 
+  speakerLeft: {fileID: 11400000, guid: 1f43ee51b907143889decdd4c978f905, type: 2}
+  speakerRight: {fileID: 11400000, guid: 544d634e4356b4a8399b77b4339aa3f9, type: 2}
+  lines:
+  - character: {fileID: 11400000, guid: 544d634e4356b4a8399b77b4339aa3f9, type: 2}
+    text: "\u201CAn intruder in our domain\u2026 If it\u2019s death you seek, you
+      are most welcome\u2026\u201D"
+  - character: {fileID: 11400000, guid: 1f43ee51b907143889decdd4c978f905, type: 2}
+    text: "\u201CThe Crimson Court truly has a way with words. I suppose you won\u2019t
+      let me pass without a fight?\u201D"
+  - character: {fileID: 11400000, guid: 544d634e4356b4a8399b77b4339aa3f9, type: 2}
+    text: "\u201CDestroy the intruder, crush their soul! Your blood will serve us
+      well!\u201D"
+  - character: {fileID: 11400000, guid: 1f43ee51b907143889decdd4c978f905, type: 2}
+    text: "\u201CCareful, with all that anger, you might just spill your own!\u201D"

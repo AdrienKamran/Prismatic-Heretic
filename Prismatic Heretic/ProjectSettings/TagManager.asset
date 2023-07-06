@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Test
+  - TriggerDoor
+  - Orb
+  - BlueSword
+  - RedSword
+  - YellowSword
+  - MovingBlocker
+  - Beam
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Enemy
+  - Water
+  - UI
+  - Walls
+  - Player
+  - UI Particles
+  - Triggers
+  - Interactible
+  - Pits
+  - PlayerFeet
+  - BlueWalls
+  - Swords
+  - MovingBlockers
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Particles
+    uniqueID: 3189509455
+    locked: 0
+  - name: Player
+    uniqueID: 1752308869
+    locked: 0
+  - name: Objects
+    uniqueID: 1390024295
+    locked: 0

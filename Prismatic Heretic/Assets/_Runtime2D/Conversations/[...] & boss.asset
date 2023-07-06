@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ddc439ae8a97444538dd7a54388b9c7d, type: 3}
+  m_Name: '[...] & boss'
+  m_EditorClassIdentifier: 
+  speakerLeft: {fileID: 11400000, guid: 1f43ee51b907143889decdd4c978f905, type: 2}
+  speakerRight: {fileID: 11400000, guid: f892f04d958724625b5e915237b0f3aa, type: 2}
+  lines:
+  - character: {fileID: 11400000, guid: f892f04d958724625b5e915237b0f3aa, type: 2}
+    text: "\u201CWord travels fast in these hallowed halls, Heretic.\u201D"
+  - character: {fileID: 11400000, guid: 1f43ee51b907143889decdd4c978f905, type: 2}
+    text: "\u201C...\u201D"
+  - character: {fileID: 11400000, guid: f892f04d958724625b5e915237b0f3aa, type: 2}
+    text: "\u201CA fledgeling mage, carving a path through the cobblestone and tiles
+      of the Trisect Academy, ending the lives of many disciples, and for what?\u201D"
+  - character: {fileID: 11400000, guid: 1f43ee51b907143889decdd4c978f905, type: 2}
+    text: "\u201C...\u201D"
+  - character: {fileID: 11400000, guid: f892f04d958724625b5e915237b0f3aa, type: 2}
+    text: "\u201CYou would be a fool to believe that those relics will be of any
+      use to you. Without training, commitment, sheer will, you are holding three
+      twigs at best.\u201D"
+  - character: {fileID: 11400000, guid: 1f43ee51b907143889decdd4c978f905, type: 2}
+    text: "\u201CIf you\u2019re so confident, why even keep these weapons from the
+      disciples in the first place?\u201D"
+  - character: {fileID: 11400000, guid: f892f04d958724625b5e915237b0f3aa, type: 2}
+    text: "\u201CPower is not simply a sum. It is the difference between what you
+      have and what others do not. And as of this moment, I find you quite lacking.\u201D"
+  - character: {fileID: 11400000, guid: f892f04d958724625b5e915237b0f3aa, type: 2}
+    text: "\u201CAllow me to demonstrate what TRUE power looks like. Pay close attention,
+      young one. This will be your first and last lesson.\u201D"
